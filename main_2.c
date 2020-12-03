@@ -4,7 +4,6 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-//자꾸 이전 파일이 컴파일되는게 오류인것 같아요 다시만들어볼게ㅛㅇ  
 
 int main(int argc, char *argv[]) {
 	int n[5];
@@ -23,3 +22,4 @@ int main(int argc, char *argv[]) {
 	
 	return 0;
 }
+
